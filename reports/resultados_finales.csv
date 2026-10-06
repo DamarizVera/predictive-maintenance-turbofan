@@ -1,0 +1,7 @@
+modelo,RMSE,MAE,NASA_score
+XGBoost,12.57,9.66,237.2
+LSTM (ensamble 3),12.81,9.93,256.5
+Random Forest,13.53,10.47,296.1
+"LSTM (modelo individual, promedio)",14.11,10.59,326.9
+Ridge,17.3,13.95,572.5
+Promedio,41.94,34.83,33354.5

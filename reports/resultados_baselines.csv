@@ -1,0 +1,5 @@
+modelo,RMSE,MAE,NASA_score,conjunto
+XGBoost,12.57,9.66,237.2,test
+Random Forest,13.53,10.47,296.1,test
+Ridge,17.3,13.95,572.5,test
+Promedio,41.94,34.83,33354.5,test

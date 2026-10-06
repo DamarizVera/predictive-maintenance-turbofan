@@ -1,0 +1,11 @@
+# Python 3.11 o 3.12 recomendado (TensorFlow aún no soporta todas las versiones nuevas de Python)
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+xgboost>=2.0
+tensorflow>=2.16
+jupyter
+ipykernel
+# Una vez que todo funcione: `pip freeze > requirements.lock.txt` para fijar versiones exactas
